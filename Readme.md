@@ -1,6 +1,6 @@
 # dxMap - How to draw a direction from point A to point B using observable options
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4737)**
+**[[Run Online]](https://codecentral.devexpress.com/e4737/)**
 <!-- run online end -->
 
 
