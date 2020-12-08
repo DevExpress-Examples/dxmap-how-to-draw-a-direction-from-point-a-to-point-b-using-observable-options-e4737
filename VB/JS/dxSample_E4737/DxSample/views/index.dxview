@@ -1,0 +1,21 @@
+<div data-options="dxView : { name: 'Index', title: 'Home' } ">
+    <div data-options="dxContent : { targetPlaceholder: 'content' } ">
+        <div class="dx-fieldset">
+            <div class="dx-field">
+                <div class="dx-field-label">Point A</div>
+                <div id="latA" data-bind="dxTextBox: { value: latA, width: 1200 }"></div>
+                <div id="lngA" data-bind="dxTextBox: { value: lngA, width: 1200 }"></div>
+            </div>
+            <div class="dx-field">
+                <div class="dx-field-label">Point B</div>
+                <div id="latB" data-bind="dxTextBox: { value: latB, width: 1200 }"></div>
+                <div id="lngB" data-bind="dxTextBox: { value: lngB, width: 1200 }"></div>
+            </div>
+            <div>
+                <div data-bind="dxButton: { text: 'Get Directions', clickAction: btnClick }"></div>
+            </div>
+        </div>
+        <div id="map" data-bind="dxMap: mapOptions">
+        </div>
+    </div>
+</div>
