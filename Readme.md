@@ -1,8 +1,3 @@
-# dxMap - How to draw a direction from point A to point B using observable options
+# This example is obsolete
 
-
-<p>This example illustrates how to draw a direction from point A to point B when <a href="http://phonejs.devexpress.com/ApiReference/Widgets/dxMap/Configuration#markers"><u>markers</u></a> and <a href="http://phonejs.devexpress.com/ApiReference/Widgets/dxMap/Configuration#routes"><u>routes</u></a> are declared as <a href="http://knockoutjs.com/documentation/observableArrays.html"><u>observable arrays</u></a>. In this example, dxMap uses the default "google" map data <a href="http://phonejs.devexpress.com/ApiReference/Widgets/dxMap/Configuration#provider"><u>provider</u></a>. </p>
-
-<br/>
-
-
+<p>From v18.1, the DevExtreme hybrid mobile-related tools, including DevExtreme SPA Framework, are deprecated. See <a href="https://community.devexpress.com/blogs/aspnet/archive/2018/02/26/devextreme-hybrid-mobile-tools-deprecation-in-v18-1.aspx"><u>this blog post</u></a> for more information. The mobile tools documentation was removed from the newer versions, but you can still find it in <a href="https://js.devexpress.com/Documentation/17_2/Guide/SPA_Framework/Application_Development/"><u>the older versions</u></a>.</p>
